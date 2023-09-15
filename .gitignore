@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/CrashTestWin/bin/Debug
+/CrashTestWin/obj
+/TestClassLibraryOne/bin/Debug/net8.0
+/TestClassLibraryOne/obj
